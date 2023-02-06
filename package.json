@@ -1,0 +1,25 @@
+{
+  "name": "likelion-highr",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.4",
+    "firebase": "^9.16.0",
+    "mapbox-gl": "^2.12.0",
+    "next": "13.1.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwind-styled-components": "^2.2.0",
+    "tailwindcss": "^3.2.4"
+  }
+}
