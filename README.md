@@ -31,19 +31,6 @@ Set pick-up location and destination with nickname
 check-out page / Upload photo for reviews
 
 
-<img width="365" alt="Screenshot 2023-02-06 at 3 55 22 PM" src="https://user-images.githubusercontent.com/88092102/217117395-ea349f25-ece6-40d3-99d4-9c7770cf2a88.png">
-<img width="372" alt="Screenshot 2023-02-06 at 4 04 17 PM" src="https://user-images.githubusercontent.com/88092102/217117399-b2cea86d-5364-4006-a426-8e47fa0766e0.png">
-
-<img width="708" alt="Screenshot 2023-02-06 at 4 03 58 PM" src="https://user-images.githubusercontent.com/88092102/217117406-6f6d00ab-6362-4457-8dab-4bb2676fd6a6.png">
-
-
-<img width="372" alt="Screenshot 2023-02-06 at 4 05 45 PM" src="https://user-images.githubusercontent.com/88092102/217117412-415aabb0-9e2a-4ef4-bf87-5540e6210311.png">
-<img width="372" alt="Screenshot 2023-02-06 at 4 05 53 PM" src="https://user-images.githubusercontent.com/88092102/217117417-00785260-d080-4f44-a362-2c99b5f16143.png">
-
-
-<img width="372" alt="Screenshot 2023-02-06 at 4 06 05 PM" src="https://user-images.githubusercontent.com/88092102/217117425-900f8ad5-2679-4828-b758-bb7df779<img width="372" alt="Screenshot 2023-02-06 at 4 06 09 PM" src="https://user-images.githubusercontent.com/88092102/217117429-c1ac9a1e-0487-4206-a649-c04a1565d1d5.png">
-6691.png">
-
 
 
 
