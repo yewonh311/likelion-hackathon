@@ -25,37 +25,24 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 ## Demo
-
-<img width="365" alt="Screenshot 2023-02-06 at 3 55 22 PM" src="https://user-images.githubusercontent.com/88092102/217117092-7cb85350-a54a-4adb-891f-2176d7db86da.png">
-<img width="372" alt="Screenshot 2023-02-06 at 4 04 17 PM" src="https://user-images.githubusercontent.com/88092102/217117100-b13e8263-8ce6-4aaf-bcec-355c88dd9c2e.png">
-
-<br/>
 first page to login / check-in main page 
-<br/>
-
-<img width="708" alt="Screenshot 2023-02-06 at 4 03 58 PM" src="https://user-images.githubusercontent.com/88092102/217115030-b459c650-015d-4ddb-a659-e0e758db28bf.png"> 
-
-<br/> Google login using firebase implementation 
-<br/>
-
-
-<img width="372" alt="Screenshot 2023-02-06 at 4 05 45 PM" src="https://user-images.githubusercontent.com/88092102/217116972-bfc43205-bab1-4e2f-a98c-ed4d0eae44ae.png">
-<img width="372" alt="Screenshot 2023-02-06 at 4 05 53 PM" src="https://user-images.githubusercontent.com/88092102/217116978-9eea7c38-3f5e-4b4c-96a3-141adbe2b26d.png">
-
-<br/>
+Google login using firebase implementation 
 Set pick-up location and destination with nickname 
-
-
-
-<br/>
-<img width="372" alt="Screenshot 2023-02-06 at 4 06 05 PM" src="https://user-images.githubusercontent.com/88092102/217117008-0fcded33-7a26-4e93-83b0-eca5e2a54f5d.png"> <img width="372" alt="Screenshot 2023-02-06 at 4 06 09 PM" src="https://user-images.githubusercontent.com/88092102/217117014-83535e86-59be-48fa-8075-d0f7a90cc549.png">
-
-<br/>
 check-out page / Upload photo for reviews
 
 
+<img width="365" alt="Screenshot 2023-02-06 at 3 55 22 PM" src="https://user-images.githubusercontent.com/88092102/217117395-ea349f25-ece6-40d3-99d4-9c7770cf2a88.png">
+<img width="372" alt="Screenshot 2023-02-06 at 4 04 17 PM" src="https://user-images.githubusercontent.com/88092102/217117399-b2cea86d-5364-4006-a426-8e47fa0766e0.png">
+
+<img width="708" alt="Screenshot 2023-02-06 at 4 03 58 PM" src="https://user-images.githubusercontent.com/88092102/217117406-6f6d00ab-6362-4457-8dab-4bb2676fd6a6.png">
 
 
+<img width="372" alt="Screenshot 2023-02-06 at 4 05 45 PM" src="https://user-images.githubusercontent.com/88092102/217117412-415aabb0-9e2a-4ef4-bf87-5540e6210311.png">
+<img width="372" alt="Screenshot 2023-02-06 at 4 05 53 PM" src="https://user-images.githubusercontent.com/88092102/217117417-00785260-d080-4f44-a362-2c99b5f16143.png">
+
+
+<img width="372" alt="Screenshot 2023-02-06 at 4 06 05 PM" src="https://user-images.githubusercontent.com/88092102/217117425-900f8ad5-2679-4828-b758-bb7df779<img width="372" alt="Screenshot 2023-02-06 at 4 06 09 PM" src="https://user-images.githubusercontent.com/88092102/217117429-c1ac9a1e-0487-4206-a649-c04a1565d1d5.png">
+6691.png">
 
 
 
