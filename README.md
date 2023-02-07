@@ -25,10 +25,13 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 ## Demo
-first page to login / check-in main page 
-Google login using firebase implementation 
-Set pick-up location and destination with nickname 
-check-out page / Upload photo for reviews
+<img width="365" alt="Screenshot 2023-02-06 at 3 55 22 PM" src="https://user-images.githubusercontent.com/88092102/217117568-643b07e6-3b03-4761-8ea8-0cfe918e1355.png"> <img width="372" alt="Screenshot 2023-02-06 at 4 04 17 PM" src="https://user-images.githubusercontent.com/88092102/217117582-92983c40-f5b0-460d-aca8-2f0d05a9618b.png">
+first page to login / check-in main page <br/>
+
+
+Google login using firebase implementation <br/>
+Set pick-up location and destination with nickname <br/>
+check-out page / Upload photo for reviews<br/>
 
 
 
