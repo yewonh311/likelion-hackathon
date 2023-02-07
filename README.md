@@ -22,6 +22,36 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+
+
+## Demo
+
+<img width="365" alt="Screenshot 2023-02-06 at 3 55 22 PM" src="https://user-images.githubusercontent.com/88092102/217115018-88475782-8523-4774-8c36-81eab3474570.png">
+
+
+<img width="708" alt="Screenshot 2023-02-06 at 4 03 58 PM" src="https://user-images.githubusercontent.com/88092102/217115030-b459c650-015d-4ddb-a659-e0e758db28bf.png">
+
+<img width="372" alt="Screenshot 2023-02-06 at 4 04 17 PM" src="https://user-images.githubusercontent.com/88092102/217115037-9ffc4598-49be-4c68-8491-0c089a5e3e61.png">
+
+<img width="372" alt="Screenshot 2023-02-06 at 4 05 45 PM" src="https://user-images.githubusercontent.com/88092102/217115043-29572f4b-8ebd-41c0-b613-43f1226f86a1.png">
+
+
+<img width="372" alt="Screenshot 2023-02-06 at 4 05 53 PM" src="https://user-images.githubusercontent.com/88092102/217115049-53d2c84b-ffe9-4995-a7ad-434c29d41e60.png">
+
+
+<img width="372" alt="Screenshot 2023-02-06 at 4 06 05 PM" src="https://user-images.githubusercontent.com/88092102/217115063-b9c8425c-e319-49c3-af99-9f9c54614233.png">
+
+
+
+<img width="372" alt="Screenshot 2023-02-06 at 4 06 09 PM" src="https://user-images.githubusercontent.com/88092102/217115074-3275ef7f-3ffc-46de-af96-494eb46db495.png">
+
+
+
+
+
+
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
