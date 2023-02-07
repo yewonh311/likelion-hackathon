@@ -25,12 +25,17 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 
 ## Demo
-<img width="365" alt="Screenshot 2023-02-06 at 3 55 22 PM" src="https://user-images.githubusercontent.com/88092102/217117568-643b07e6-3b03-4761-8ea8-0cfe918e1355.png"> <img width="372" alt="Screenshot 2023-02-06 at 4 04 17 PM" src="https://user-images.githubusercontent.com/88092102/217117582-92983c40-f5b0-460d-aca8-2f0d05a9618b.png">
+<img width="365" alt="Screenshot 2023-02-06 at 3 55 22 PM" src="https://user-images.githubusercontent.com/88092102/217117568-643b07e6-3b03-4761-8ea8-0cfe918e1355.png">  <img width="372" alt="Screenshot 2023-02-06 at 4 04 17 PM" src="https://user-images.githubusercontent.com/88092102/217117582-92983c40-f5b0-460d-aca8-2f0d05a9618b.png">
 first page to login / check-in main page <br/>
 
-
+<img width="708" alt="Screenshot 2023-02-06 at 4 03 58 PM" src="https://user-images.githubusercontent.com/88092102/217117643-9d10b8d9-da46-4146-adb2-3b9dc5a88771.png">
 Google login using firebase implementation <br/>
+
+<img width="372" alt="Screenshot 2023-02-06 at 4 05 45 PM" src="https://user-images.githubusercontent.com/88092102/217117669-9d0d3339-5ae2-47d0-985e-e5405c8e8d9c.png">  <img width="372" alt="Screenshot 2023-02-06 at 4 05 53 PM" src="https://user-images.githubusercontent.com/88092102/217117676-6d3f1e81-35d2-457d-95c9-9ecb8cab94a9.png">
+
 Set pick-up location and destination with nickname <br/>
+
+<img width="372" alt="Screenshot 2023-02-06 at 4 06 05 PM" src="https://user-images.githubusercontent.com/88092102/217117760-b64f4f3c-9665-4193-9a6d-91f3cca01faa.png"> <img width="372" alt="Screenshot 2023-02-06 at 4 06 09 PM" src="https://user-images.githubusercontent.com/88092102/217117772-222f1d93-72d8-43da-9921-b8e1ccaf573c.png">
 check-out page / Upload photo for reviews<br/>
 
 
