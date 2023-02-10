@@ -37,7 +37,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 <br/>Set pick-up location and destination using Google Maps API with nickname to identify PBV user <br/><br/>
 
-<br/>Still updating check-in by biometric (face detection) <br/><br/>
+<br/>(( Still updating check-in by biometric (face detection) )) <br/>
 
 <img width="372" alt="Screenshot 2023-02-06 at 4 06 05 PM" src="https://user-images.githubusercontent.com/88092102/217117760-b64f4f3c-9665-4193-9a6d-91f3cca01faa.png">　<img width="372" alt="Screenshot 2023-02-06 at 4 06 09 PM" src="https://user-images.githubusercontent.com/88092102/217117772-222f1d93-72d8-43da-9921-b8e1ccaf573c.png">
 <br/>check-out page / Upload photo for reviews<br/><br/>
