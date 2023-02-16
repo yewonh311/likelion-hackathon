@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).<br/><br/>
 
 Idea Research Notion Page<br/>
-https://melodious-mapusaurus-5db.notion.site/LLUS-Hackathon-check-IN-N-OUT-d0fa4e05da9b4acc9d54578252f90925 <br/><br/>
+https://yewonhong.notion.site/LLUS-Hackathon-check-IN-N-OUT-d0fa4e05da9b4acc9d54578252f90925 <br/><br/>
 ## Getting Started
 
 First, run the development server:
