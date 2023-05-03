@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { GoogleAuthProvider, getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyA7c8FDlr-_AQ0bBYAdJ0pfeAX9GUMlGaw",
+  apiKey: "APIKEYCODE",
   authDomain: "likelion-highr.firebaseapp.com",
   projectId: "likelion-highr",
   storageBucket: "likelion-highr.appspot.com",
